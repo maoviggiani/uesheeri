@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oiquajaef.flyme.edu.pl/sitemap.xml
